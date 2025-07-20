@@ -1,5 +1,4 @@
 
-*/
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -15,7 +14,6 @@ a {
 }
 
 .logo {
-    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -62,7 +60,6 @@ a {
 }
 
 .hero-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -71,9 +68,7 @@ a {
     color: #ffffff;
 }
 
-
 .hero-button {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -89,18 +84,12 @@ a {
 }
 
 .solutions-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-}
-
-.solutions-list {
-    font-family: "Roboto", sans-serif;
-    
 }
 
 .solutions-titles {        
@@ -124,7 +113,6 @@ a {
 }
 
 .team-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -135,7 +123,6 @@ a {
 }
 
 .team-list-item {
-    font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     background-color: #ffffff;
 }
@@ -157,7 +144,6 @@ a {
 }
 
 .portfolio-title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -168,8 +154,7 @@ a {
 }
 
 .portfolio-list-item {
-    font-family: "Roboto", sans-serif;
-}
+}   
 
 .portfolio-titles {
     font-weight: 500;
@@ -193,7 +178,6 @@ a {
 }
 
 .footer-text {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
